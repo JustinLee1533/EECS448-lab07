@@ -1,0 +1,5 @@
+1. it looks like when a list is created, its size is initialized to 1.  It should start at 0.
+
+2. the first time addBack() is called it adds the proper value to the list.  After its called a subsequent time, it always adds what the first value in the list (?whats it do if addfront is called first?)
+
+3. removeFront() removes the last elements from a list, at least when the list is populated just by addFront();
